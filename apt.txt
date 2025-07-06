@@ -1,0 +1,4 @@
+tesseract-ocr
+chromium
+chromium-driver
+fonts-liberation
