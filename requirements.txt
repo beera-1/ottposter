@@ -1,7 +1,8 @@
+Flask==3.0.2
+pytesseract==0.3.10
+Pillow==10.3.0
+requests==2.31.0
+beautifulsoup4==4.12.3
+selenium==4.21.0
 python-telegram-bot==13.15
-selenium
-pillow
-pytesseract
-requests
-beautifulsoup4
-flask
+gunicorn==21.2.0
