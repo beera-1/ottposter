@@ -206,7 +206,7 @@ def main():
         listen="0.0.0.0",
         port=PORT,
         url_path=BOT_TOKEN,
-        webhook_url=f"{BASE_URL}/{BOT_TOKEN}"
+        webhook_url=f"https://vague-emylee-fdep1-e666aa0a.koyeb.app/7291110510:AAFhV1JZBF-jQK-X96dwUkEGbxoeYl8yd3M"
     )
 
     updater.idle()
