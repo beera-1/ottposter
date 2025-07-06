@@ -13,8 +13,8 @@ from flask import Flask
 import threading
 
 # ---------------- Bot Config ----------------
-BOT_TOKEN    = os.getenv("BOT_TOKEN",    "YOUR_BOT_TOKEN_HERE")
-OWNER_ID     = int(os.getenv("OWNER_ID", "123456789"))
+BOT_TOKEN    = os.getenv("BOT_TOKEN")
+OWNER_ID     = int(os.getenv("OWNER_ID", "6390511215"))
 AUTHORIZED_USERS = [OWNER_ID]
 
 # ---------------- Logging ----------------
